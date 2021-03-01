@@ -7,11 +7,11 @@
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
 <!--- Describe your app in one or two sentences -->
-It's a fake puppy adoption app, for the #AndroidDevChallenge of Jetpack Compose.
+This is an app for adopting pets, for the #AndroidDevChallenge of Jetpack Compose.
 
-- Lists some dogs to be adopted.
-- Click to show details of each dog.
-- In the details page, click back button to go back to the list.
+- View a list of all pets
+- Click to enter pet details
+- Can claim pets
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
