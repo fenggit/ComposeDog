@@ -13,11 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge.ui.theme
+package com.example.androiddevchallenge
 
-import androidx.compose.ui.graphics.Color
+import androidx.annotation.DrawableRes
 
-val purple200 = Color(0xFF008577)
-val purple500 = Color(0xFF008577)
-val purple700 = Color(0xFF008577)
-val teal200 = Color(0xFF008577)
+data class MyDog(
+    val name: String,
+    val desc: String,
+    @DrawableRes val picture: Int,
+)

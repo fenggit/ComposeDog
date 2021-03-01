@@ -11,7 +11,7 @@ Clone your repository and open it in the latest [Android Studio (Canary build)](
 - All UI should be written using Jetpack Compose
 - The Github Actions workflow should complete successfully
 - Include two screenshots of your submission in the [results](results) folder. The names should be
-  screenshot_1.png and screenshot_2.png.
+  screenshot_1.jpeg and screenshot_2.jpeg.
 - Include a screen record of your submission in the [results](results) folder. The name should be
   video.mp4
 - Replace the contents of [README.md](README.md) with the contents of [README-template.md](README-template.md) and fill out the template.
